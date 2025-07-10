@@ -1,15 +1,29 @@
 # .github/labeler.yml
 
-documentation:
-  - "docs/**"
-  - "**/*.md"
-
-core:
-  - "trendsaf/**"
-  - "ingestion/**"
+live-data:
   - "connectors/**"
+  - "schemas/live/**"
+  - "pipelines/live/**"
+
+data:
+  - "mock_data/**"
+  - "sample_data/**"
+  - "fixtures/**"
+
+examples:
+  - "examples/**"
+  - "**/*.ipynb"
+
+tests:
+  - "tests/**"
+  - "**/test_*.py"
 
 infra:
   - ".github/**"
   - "Dockerfile"
   - ".devcontainer/**"
+
+core:
+  - "trendsaf/**"
+  - "ingestion/**"
+  - "cli/**"
