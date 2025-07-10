@@ -1,0 +1,15 @@
+# .github/labeler.yml
+
+documentation:
+  - "docs/**"
+  - "**/*.md"
+
+core:
+  - "trendsaf/**"
+  - "ingestion/**"
+  - "connectors/**"
+
+infra:
+  - ".github/**"
+  - "Dockerfile"
+  - ".devcontainer/**"
