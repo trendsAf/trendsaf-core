@@ -12,6 +12,8 @@ We welcome contributions that improve the performance, stability, and adaptabili
    - A clear description of the problem and proposed solution
    - Tests or documentation updates (if applicable)
    - Adherence to existing code style and contribution guidelines
+  
+   - _Please sign the CLA via the prompt when you open your PR._
 
 ---
 
