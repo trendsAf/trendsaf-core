@@ -1,4 +1,11 @@
-# trendsaf-core
+# 🌍 Trendsaf Open Core
+
+[![License: Polyform Noncommercial](https://img.shields.io/badge/license-Polyform%20Noncommercial%201.0.0-blue.svg)](./LICENSE.txt)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+[![CLA Required](https://img.shields.io/badge/CLA-required-orange.svg)](./CLA.md)
+[![Maintained by Aperçu Labs (part of Aperçu Holdings Limited](https://img.shields.io/badge/maintained%20by-Aperçu%20Labs-blueviolet)](https://apercu.pro)
+
+
 
 **Open-source data infrastructure for commodity, trade, and logistics insights in frontier markets.**
 
