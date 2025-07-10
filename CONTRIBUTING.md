@@ -1,34 +1,64 @@
 # 🤝 Contributing to Trendsaf Core
 
-We welcome contributions that improve the performance, stability, and adaptability of Trendsaf Core — Africa’s open-core data engine for trade and commodity intelligence.
+We welcome contributions that improve the performance, stability, and adaptability of **Trendsaf Core** — Africa’s open-core data engine for trade and commodity intelligence.
 
 ---
 
 ## ✍️ How to Contribute
 
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with:
-   - A clear problem statement and solution
-   - Tests or documentation (if applicable)
+1. **Fork** the repository
+2. **Create a feature branch** (`git checkout -b feature/my-feature`)
+3. **Submit a pull request** with:
+   - A clear description of the problem and proposed solution
+   - Tests or documentation updates (if applicable)
+   - Adherence to existing code style and contribution guidelines
 
 ---
 
-## 📜 Licensing of Contributions
+## 📜 Contributor Terms and Licensing
 
-By contributing to Trendsaf Core, you agree that:
+By contributing to Trendsaf Core, you agree to the following:
 
-- Your contributions are licensed under the same terms as the Trendsaf Core software: the **Polyform Noncommercial License 1.0.0**
-- Aperçu Holdings Limited has the right to include your code in future commercial or dual-licensed distributions
+- Your contributions are licensed under the same terms as the core software:  
+  **Polyform Noncommercial License 1.0.0 (Customized)**
 
-> If contributing on behalf of your employer or organization, ensure you have the appropriate legal authorization.
+- You grant **Aperçu Holdings Limited** the right to include your code in:
+  - Future **commercial distributions**
+  - **Dual-licensed offerings** such as Trendsaf Cloud or enterprise editions
+
+You retain the copyright to your contributions.
+
+---
+
+## 🏢 Corporate Contributors
+
+If you're contributing on behalf of your employer or organization:
+
+- Ensure you have the proper legal authority to submit code
+- Contributions from corporate environments are still subject to the same license terms
+- Contact us if you need assistance navigating open-source contribution policies
+
+📬 Reach out: [support@trendsaf.co](mailto:support@trendsaf.co)
 
 ---
 
 ## 🔐 Commercial Use
 
-You may use this software in production **only for non-commercial purposes**.
+Trendsaf Core is **free to use, modify, and deploy for non-commercial purposes**, including:
 
-**Commercial use — including for-profit platforms, SaaS offerings, or resale — requires a separate license.**
+- Research and academic use
+- Government and public-sector deployments
+- Internal tools in nonprofits or NGOs
 
-📩 To discuss licensing or partnership opportunities, email: [support@trendsaf.co](mailto:support@trendsaf.co)
+However, you **may not** use the software in:
+
+- For-profit products or services
+- SaaS or platform offerings
+- Internal enterprise use at commercial organizations
+
+📩 To request a commercial license or discuss partnerships, email:  
+**[support@trendsaf.co](mailto:support@trendsaf.co)**
+
+---
+
+Thank you for helping build trusted open infrastructure for Africa’s digital economy.
