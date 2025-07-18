@@ -1,0 +1,17 @@
+Polyform Noncommercial License 1.0.0 – Modified for Trendsaf Core
+
+Copyright (c) 2025 Aperçu Holdings Limited
+
+Permission is granted to use, copy, modify, and distribute this software for **any non-commercial purpose**, including **production deployments**, subject to the following conditions:
+
+1. **Non-Commercial Use Only**: You may not use the software for any **commercial purpose**, including providing the software as part of a paid service, for profit, or in any commercial context, without a separate commercial license.
+
+2. **Production Use Permitted**: You may deploy the software in a **non-commercial production environment**, such as academic, research, nonprofit, or government use.
+
+3. **Attribution and Integrity**: You must retain this license text and all copyright and attribution notices.
+
+4. **Commercial Use Requires Licensing**: To use the software commercially, including in production, resale, or as part of a SaaS or platform offering, you must obtain a commercial license from Aperçu Holdings Limited.
+
+To request a commercial license, contact: support@trendsaf.co
+
+This license is derived from the Polyform Project. See: https://polyformproject.org/licenses/noncommercial/1.0.0/

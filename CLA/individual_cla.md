@@ -7,4 +7,4 @@ By making a contribution to this repository, I certify that:
 3. I agree to license my contributions under the Polyform Noncommercial License 1.0.0.
 
 Signed,  
-[Contributor Name or GitHub Handle]
+Aphrodis Uwineza
