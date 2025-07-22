@@ -137,5 +137,4 @@ If you plan to:
 
 
 ### 🏗 Maintained By
-Aperçu Labs and Trendsaf Limited
-Part of Aperçu Holdings Limited group — the digital economy research lab for frontier economies.
+Aperçu Labs, part of Aperçu Holdings Limited group — the digital economy research lab for frontier economies.
