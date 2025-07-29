@@ -1,5 +1,3 @@
-# .github/labeler.yml
-
 live-data:
   - "connectors/**"
   - "schemas/live/**"
